@@ -1205,7 +1205,3 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.26-09.12.36:050][677]LogOutputDevice: Error: [Callstack] 0x00007ffc47a47344 KERNEL32.DLL!UnknownFunction []
 [2024.01.26-09.12.36:050][677]LogOutputDevice: Error: [Callstack] 0x00007ffc491226b1 ntdll.dll!UnknownFunction []
 [2024.01.26-09.12.36:050][677]LogOutputDevice: Error: 
-[2024.01.26-09.12.36:066][679]LogStats:                SubmitErrorReport -  0.000 s
-[2024.01.26-09.12.36:607][702]LogStats:                    SendNewReport -  0.542 s
-[2024.01.26-09.12.36:607][702]LogStats:             FDebug::EnsureFailed -  0.577 s
-[2024.01.26-09.12.54:872][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
